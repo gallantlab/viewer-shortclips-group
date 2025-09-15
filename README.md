@@ -1,6 +1,6 @@
-Pycortex viewer of group semantic maps created using data from Nishimoto et al. (2011) 
-12 more subjects' data have been added to the 3 subjects from original paper.
+Pycortex viewer of group semantic maps created using data from Huth et al. (2012). \
+12 more subjects' data have been added to the 3 subjects from original paper. \
 A total of 15 participants' data has been used to create the following results.
 
 Citations: 
-Nishimoto S, Vu AT, Naselaris T, Benjamini Y, Yu B, Gallant JL. Reconstructing visual experiences from brain activity evoked by natural movies. Curr Biol. 2011 Oct 11;21(19):1641-6. doi: 10.1016/j.cub.2011.08.031. Epub 2011 Sep 22. PMID: 21945275; PMCID: PMC3326357.
+Huth AG, Nishimoto S, Vu AT, Gallant JL. A continuous semantic space describes the representation of thousands of object and action categories across the human brain. Neuron. 2012 Dec 20;76(6):1210-24. doi: 10.1016/j.neuron.2012.10.014. PMID: 23259955; PMCID: PMC3556488.
